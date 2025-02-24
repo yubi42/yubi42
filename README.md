@@ -5,6 +5,7 @@
 </div>
 <hr>
 <br>
+<br>
 
 <img align="right" alt="Coding" height="200" src="https://gifdb.com/images/high/cowboy-bebop-edward-balancing-fqfdbpndc783uduo.gif">
 
@@ -15,6 +16,7 @@
 <br>
 <br>
 <hr>
+<br>
 
 ## Skills & Technologies
 
@@ -27,8 +29,11 @@
 
 ## Worksamples
 
-- [Minishell](https://github.com/yubi42/42-minishell): Developed a simplified Unix shell in C, replicating bash behavior to reinforce knowledge of process management and system calls.
-- [Finco App](https://github.com/yubi42/42-minishell): Final Project of Supercode Bootcamp with MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- [Ft_transcendence](https://github.com/yubi42/42-ft_transcendence): A full-stack web application combining frontend, backend, and real-time communication to create a multiplayer Pong game with authentication, user management, and websockets. - Final 42 Project (work in progress).
+- [Aegean Dogs](https://www.aegean-dogs.de/): A React.js-based Single Page Application (SPA) designed for a pet rescue organization, ensuring easy maintenance and usability for non-technical users while providing ongoing support.
+- [Cub3d](https://github.com/yubi42/42-minishell): A 3D maze game inspired by Wolfenstein 3D (but it is a racing car game!), built using the Raycasting technique in C, featuring player movement, wall rendering, and basic game mechanics.
+- [Minishell](https://github.com/yubi42/42-minishell): A simple Unix shell written in C, replicating basic Bash functionalities, including command execution, pipes, redirections, environment variables, and signal handling.
+- [Finco App](https://github.com/yubi42/42-minishell): A banking app built with the MERN stack, allowing users to manage accounts, perform transactions, and track balances in a secure and interactive interface. - Final Supercode Bootcamp Project.
 
 <br>
 
