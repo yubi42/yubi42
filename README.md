@@ -11,6 +11,7 @@
 <p><b>09/22-02/23:</b><br> Full Atack Webdevelopment bootcamp at <a href="https://www.super-code.de/" rel="noreferrer">Supercode</a>.</p>
 
 <br>
+<br>
 <hr>
 
 ## Skills & Technologies
