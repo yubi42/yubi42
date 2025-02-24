@@ -44,5 +44,5 @@ With an inventor's spirit and a "mad scientist" heart, I'm driven by curiosity a
 - [Aegean Dogs](https://github.com/yubi42/website-aegean_dogs): A React.js-based Single Page Application (SPA) designed for a pet rescue organization, ensuring easy maintenance and usability for non-technical users while providing ongoing support. [>Live Webpage<](https://www.aegean-dogs.de/)
 - [Cub3d](https://github.com/yubi42/42-cub3d): A 3D maze game inspired by Wolfenstein 3D (but it is a racing car game!), built using the Raycasting technique in C, featuring player movement, wall rendering, and basic game mechanics.
 - [Minishell](https://github.com/yubi42/42-minishell): A simple Unix shell written in C, replicating basic Bash functionalities, including command execution, pipes, redirections, environment variables, and signal handling.
-- [Finco App](https://github.com/yubi42/website-aegean_dogs): A banking app built with the MERN stack, allowing users to manage accounts, perform transactions, and track balances in a secure and interactive interface. - Final Supercode Bootcamp Project.
+- [Finco App](https://github.com/yubi42/Supercode-Finco): A banking app built with the MERN stack, allowing users to manage accounts, perform transactions, and track balances in a secure and interactive interface. - Final Supercode Bootcamp Project.
 
