@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" height="200" src="https://gifdb.com/images/high/cowboy-bebop-edward-balancing-fqfdbpndc783uduo.gif">
 
 <p><b>05/23-today:</b><br> Core Curriculum at <a href="https://42berlin.de/" rel="noreferrer">42 Berlin</a> coding school</p>
-<p><b>09/22-02/23:</b><br> Full Stack Webdevelopment bootcamp at <a href="https://www.super-code.de/" rel="noreferrer">Supercode</a>.</p>
+<p><b>09/22-02/23:</b><br> Full Stack Webdevelopment bootcamp at <a href="https://www.super-code.de/" rel="noreferrer">Supercode</a></p>
 
 <br>
 <br>
