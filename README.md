@@ -1,7 +1,5 @@
 # About Me
 
-## Introduction
-
 Hello! I'm **yubi42**, a passionate full-stack web developer and software engineer based in Berlin, Germany. My journey into the tech world began in September 2022, and I've been dedicated to honing my skills and contributing to meaningful projects ever since.
 
 ## Education & Experience
