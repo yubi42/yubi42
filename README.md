@@ -38,11 +38,10 @@
 <br>
 
 ## Coding Philosophy
-
-I believe that coding is a harmonious blend of creativity and logic. While front-end development offers visual creativity, I find my true passion in back-end development, where I can architect solutions and design systems. I appreciate how programming languages allow for precise instructions and predictable outcomes, while still valuing the nuance and creativity of human communication and collaboration.
+For me, coding combines two things that I really like: logical thinking and being creative! While front-end development often follows predefined designs and user expectations, I find true creativity in back-end development—where I can invent my own solutions, design architectures, and implement ideas in unique ways. The ability to approach a problem from multiple angles and choose how to bring a system to life is what excites me the most about coding.
 
 <br>
 
 ## Goals & Interests
 
-With an inventor's spirit and a "mad scientist" heart, I'm driven by the desire to create and innovate. I aim to leverage my coding skills to develop solutions that make the world a better place.
+With an inventor's spirit and a "mad scientist" heart, I'm driven by curiosity and the constant pursuit of knowledge. I love learning new technologies, expanding my understanding of different programming paradigms, and exploring innovative solutions to complex problems.
